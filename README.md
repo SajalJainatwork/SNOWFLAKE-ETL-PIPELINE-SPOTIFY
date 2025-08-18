@@ -1,5 +1,4 @@
-Here’s the revised content with the requested changes:
-
+Spotify Data Hands-on ETL using AWS Lambda, S3, Snowpipe, and Snowflake.
 ---
 
 # **Spotify ETL Pipeline with Snowflake and AWS Integration**
