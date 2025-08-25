@@ -10,6 +10,8 @@ This repository demonstrates a fully automated **data engineering pipeline** tha
 This project **automates data extraction, transformation, and analytics** for **Spotify's Indian music data**. It **extracts real-time** music data from the **Spotify API**, processes and transforms it, and prepares it for **analytics** using **Snowflake** and **AWS services**. The pipeline enables insights into **trending songs and artists in India**.
 
 ## **Pipeline Architecture**
+![spotify architecture](https://github.com/user-attachments/assets/5ca796b2-f443-45f4-82dd-b59368bc5123)
+
 
 ### **1. Data Extraction**
 - Extracts **Spotify's Best of 2024 Songs in India** using the **Spotify API**.
