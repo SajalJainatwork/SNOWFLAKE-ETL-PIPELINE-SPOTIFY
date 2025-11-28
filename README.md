@@ -1,6 +1,9 @@
 <img width="1200" height="630" alt="spotify" src="https://github.com/user-attachments/assets/f4137fcf-718f-4801-b6ed-3cb32342b836" />
 
 
+![SG](https://github.com/user-attachments/assets/96dd369a-9a43-4da4-b9fa-ca2c19717275)
+
+
 
 Spotify Data Hands-on ETL using AWS Lambda, S3, Snowpipe, and Snowflake.
 ---
